@@ -1,5 +1,5 @@
 # Amazon-price-tracker
-This is python web scarapping tracker which notifies the user when the prices of the particular product they have chosen fall down!
+This is python web scraping tracker which notifies the user when the prices of the particular product they have chosen fall down!
 prequisites are:
 pip install requests
 pip install pyinit
